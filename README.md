@@ -2,7 +2,7 @@
 
 Privacy Policy for NeX Music Discord Bot
 
-At NeX Music, accessible from https://discord.com/oauth2/authorize?client_id=1262665136448208946&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by NeX Music and how we use it.
+At NeX Music, accessible from https://discord.com/oauth2/authorize?client_id=1272058924547178581&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by NeX Music and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
